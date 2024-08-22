@@ -1,4 +1,4 @@
-# Railway Reservation System - README
+# TrainMaster - README
 
 ## Overview
 This project is a simple Railway Reservation System implemented in C++. It allows users to make, cancel, and inquire about train reservations, and provides an admin interface for managing train and user details.
